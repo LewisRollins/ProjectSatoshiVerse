@@ -52,7 +52,7 @@
 					}
 				},
 				{
-					"mode": "button",
+					"mode": "trigger",
 					"path": "/user/hand/left/input/trigger",
 					"inputs":
 					{
@@ -63,7 +63,7 @@
 					}
 				},
 				{
-					"mode": "button",
+					"mode": "trigger",
 					"path": "/user/hand/right/input/trigger",
 					"inputs":
 					{
@@ -104,7 +104,7 @@
 					}
 				},
 				{
-					"mode": "button",
+					"mode": "trigger",
 					"path": "/user/hand/left/input/trigger",
 					"inputs":
 					{
@@ -115,35 +115,13 @@
 					}
 				},
 				{
-					"mode": "button",
+					"mode": "trigger",
 					"path": "/user/hand/right/input/trigger",
 					"inputs":
 					{
 						"click":
 						{
 							"output": "/actions/main/in/UseHeldObjectRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TriggerInteractionLEft"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TriggerInteractionRight"
 						}
 					}
 				},
@@ -225,5 +203,5 @@
 			]
 		}
 	},
-	"description": "Virtual Reality BP Game Template-11100242"
+	"description": "ProjectSatoshiVerse-15973114"
 }
