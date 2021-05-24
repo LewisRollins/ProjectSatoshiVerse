@@ -1,10 +1,15 @@
-### How do I get set up? ###
-
-Current compatible versions for template: Latest Engine Version (Template is not kept to as many compatible versions as the plugin itself).
-
-* Right click on VRExpPluginExample.uproject and switch to your preferred (compatible) engine version.
-* If project files did not automatically generate after switching, right click again and select "Generate Visual Studio Files"
-* Open Solution and build - Or download the pre-built binary package from the forum thread for the engine version and place into the plugins directory.
-* Run
-
-You need to have visual studio installed and follow the UE4 setup guide for it: https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/
+                      The Satoshi-Verse
+                      
+          69696969                         69696969
+       6969    696969                   696969    6969
+     969    69  6969696               6969  6969     696
+    969        696969696             696969696969     696
+   969        69696969696           6969696969696      696
+   696      9696969696969           969696969696       969
+    696     696969696969             969696969        969
+     696     696  96969      _=_      9696969  69    696
+       9696    969696      q(-_-)p      696969    6969
+          96969696         '_) (_`         69696969
+             96            /__/  \            69
+             69          _(<_   / )_          96
+            6969        (__\_\_|_/__)        9696
